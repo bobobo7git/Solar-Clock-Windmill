@@ -1,1 +1,1 @@
-# Solar-Clock-Windmill
+# Solar & Clock & Windmill
