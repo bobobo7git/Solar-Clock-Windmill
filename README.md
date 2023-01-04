@@ -6,12 +6,12 @@
 - the distance each planet and moons is also exaggerated or understated
 - the orbit rotation period is applied which is in real world
 
-2. Clock
+<b>2. Clock</b>
 - entire body is loaded from an image
 - the hands of clock are drawn by pygame.draw.polygon
 - Used clock.tick(1) for flip the screen per second
 
-3. Windmill
+<b>3. Windmill</b>
 - all of components of the windmill are drawn as polygon, circle or rectangle
 - used function Tmat & Rmat
 
